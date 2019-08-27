@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Dancing Script OT
+Author: Impallari Type
+Url: http://www.fontsquirrel.com/fonts/dancing-script-ot
+
+Font: Pacifico
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/pacifico
